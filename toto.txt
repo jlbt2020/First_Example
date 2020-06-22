@@ -1,2 +1,1 @@
-First example
-Second segment
+Third statement
